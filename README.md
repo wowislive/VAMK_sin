@@ -1,0 +1,2 @@
+# VAMK_sin
+Exercise
